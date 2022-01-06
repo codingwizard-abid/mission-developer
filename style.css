@@ -48,6 +48,7 @@ a{
    color:#0984e3;
 }
 
+/* main css */
 
 /* Banner area */
 .banner-inner{
@@ -138,6 +139,7 @@ a{
 .dream-img{
    position: relative;
 }
+
 /* circle-shape */
 .circle-one {
    position: absolute;
@@ -151,6 +153,7 @@ a{
    left: -90px;
    z-index: -999;
 }
+
 /* Community area */
 #community-area{
    padding-bottom: 100px;
